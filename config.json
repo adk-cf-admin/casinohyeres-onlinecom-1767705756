@@ -1,0 +1,197 @@
+{
+    "fr-FR": {
+        "styles": {
+            "bg": "#000001",
+            "lang-select-color": "#222829",
+            "bg-light": "#000001",
+            "welcome-bonus-bg": "#000001",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#1a1a1a",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#2E444B",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#A80F0D",
+            "yellow": "#2E444B",
+            "yellow-button": "#A80F0D",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#000001",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#383839",
+            "pay-back": "#deeadf",
+            "providers-back": "#2E444B",
+            "faq-label": "#000001",
+            "bg-footer": "#000001",
+            "copyright": "#e7e7d5",
+            "starColor": "#A80F0D",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino de Hyères ",
+            "title": "Casino de Hyères : machines, roulette, bonus et événements",
+            "description": "Découvrez le Casino de Hyères : machines à sous, roulette et blackjack, jackpots, tournois et soirées animées. Bar, restaurant et détente pour une sortie complète.",
+            "canonical": "casinohyeres-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1386",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casinohyeres-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1387",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1388"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1390",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino de Hyères  Logo"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "hero": {
+            "title": "Casino de Hyères — jeux, jackpots, shows et détente",
+            "textDesktop": "Offre de bienvenue exclusive de",
+            "textMobile": "Offre de bienvenue exclusive de",
+            "playGame": "Lancer la partie",
+            "claimBonus": "Réclamer le bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1391",
+            "imageSizeModifier": -15,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1392",
+            "mobileImageSizeModifier": -15,
+            "mobileImageYModifier": 3,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Activer le bonus",
+            "title": "Top casinos",
+            "allCasino": "Tous les casinos",
+            "welcomeBonusText": "Bonus de bienvenue"
+        },
+        "bonusDetails": {
+            "title": "Détails du bonus",
+            "getBonusButtonText": "Obtenir le bonus",
+            "maximumAmountText": "Montant maximum",
+            "wagerText": "Wager",
+            "bonusCodeText": "Code promo",
+            "casino": "Casino",
+            "bonuses": "Bonus",
+            "rate": "Note",
+            "freeSpins": "Tours gratuits",
+            "moreInfo": "Plus d'infos",
+            "get": "Obtenir",
+            "refresh": "Actualiser"
+        },
+        "advantages": {
+            "title": "Avantages",
+            "advantagesBeforeText": "Le Casino de Hyères séduit par un équilibre entre jeux et art de vivre : on peut enchaîner machines, tables, puis profiter d’un moment convivial au bar. ",
+            "items": [
+                "Large choix de machines, gains fréquents",
+                "Jackpots avec chance de gros gains",
+                "Tournois de slots avec cagnottes",
+                "Tables du soir : roulette et blackjack",
+                "Emplacement central, accès très pratique",
+                "Bar et restaurant pour se détendre",
+                "Animations et shows pour une soirée"
+            ],
+            "advantagesAfterText": "L’ambiance est à la fois élégante et accessible, agréable pour tous les profils. Les animations renforcent l’expérience et donnent un vrai rythme à la soirée.",
+            "knowMore": "En savoir plus",
+            "appTitle": "Casino de Hyères App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1393",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino de Hyères App",
+            "mobileGooglePlayImageTitle": "Casino de Hyères App",
+            "mobileIosImageTitle": "Casino de Hyères App"
+        },
+        "games": {
+            "playNowText": "Jouer maintenant",
+            "title": "Jeux populaires",
+            "allGames": "Tous les jeux"
+        },
+        "about": {
+            "history": {
+                "title": "À propos Casino de Hyères",
+                "description1": "Le Casino de Hyères se distingue par une prise en main simple et une ambiance fluide, même pour débuter. L’offre de divertissement et le service ajoutent une dimension “sortie” au-delà du jeu.\n",
+                "items": [
+                    "Jackpot : jusqu’à 1 000 000€",
+                    "Machines : gains jusqu’à x10 000",
+                    "Tournois : prix jusqu’à 20 000€"
+                ],
+                "description2": "Le Casino de Hyères est un lieu où le jeu s’accorde à une ambiance de riviera. À l’intérieur, l’atmosphère reste soignée et la circulation est pensée pour être simple. On peut commencer par les machines et évoluer naturellement vers des expériences plus classiques. \n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1394",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Les espaces donnent une impression de confort, sans agitation inutile. Le personnel installe un rythme serein et répond aux questions essentielles sur les jeux et les services. Le bar permet de faire une vraie pause entre deux sessions. Les divertissements apportent du relief et transforment la visite en sortie complète. Le casino attire aussi des groupes qui viennent autant pour partager un moment que pour jouer. Les horaires étendus facilitent une venue en journée comme en soirée. Au final, c’est une adresse polyvalente pour mêler plaisir, émotions et détente."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino de Hyères — style, jeux et détente en une seule adresse",
+                "description": "<p>\nLe Casino de Hyères offre une atmosphère de riviera urbaine : élégance discrète, éclairages doux et sensation de soirée “à part”. Les intérieurs paraissent généralement contemporains et soignés, avec une organisation pensée pour rester claire dès la première visite. On s’y sent à l’aise sans excès de formalité, même si l’on vient simplement tenter sa chance. L’ensemble donne une impression de lieu maîtrisé, où le jeu n’écrase pas la convivialité. Le soir, l’ambiance devient plus festive grâce à la musique et aux temps forts.\n\n<\/p>\n<br>\n\n\n<p>\nCôté horaires, le format est pratique pour plusieurs rythmes, de la visite en journée à la sortie tardive. On peut souvent démarrer sur les machines plus tôt, puis rejoindre les tables quand la soirée s’anime davantage. Cette progression rend la planification naturelle : passer “une heure”, dîner, puis prolonger. Les espaces sont généralement structurés pour alterner jeu et pause sans se presser. Le contrôle d’accès et l’attention portée au calme participent au confort. Résultat : une visite fluide et rassurante.\n\n<\/p>\n<br>\n<p>\nL’univers bar du Casino de Hyères vise une palette large : café, apéritifs, cocktails et boissons de soirée. C’est l’endroit idéal pour souffler, attendre des amis ou célébrer une bonne série. L’ambiance y est plus conversationnelle que dans les zones de jeu, ce qui encourage à alterner les espaces. Selon les soirées, le bar s’intègre aux animations et renforce l’esprit “sortie”. Cette respiration rend l’expérience plus équilibrée. Les amateurs de confort apprécient particulièrement cette alternance.\n\n<\/p>\n<br>\n<p>\nLe site est souvent associé à un esprit “casino-hôtel”, appréciable pour les séjours week-end ou les fins de soirée tardives. Le scénario hôtel plaît aux couples et aux groupes qui préfèrent éviter le trajet nocturne. Cette complémentarité améliore le confort global et rend la sortie plus cohérente. Elle facilite aussi l’organisation d’événements et de célébrations. Les voyageurs d’affaires y trouvent également un intérêt en combinant rendez-vous et détente. Le casino s’inscrit ainsi dans un ensemble de loisirs plus large.\n\n<\/p>\n<br>\n<p>\nLes animations et divertissements donnent du relief : musique, soirées à thème, moments festifs et rendez-vous saisonniers. Ces temps forts permettent de venir “pour l’ambiance” autant que pour jouer. Certains formats reviennent régulièrement et créent un attachement chez les habitués. Le lieu paraît vivant, avec une énergie renouvelée. Tout en gardant le jeu au centre, l’animation enrichit l’arrière-plan. C’est un équilibre réussi pour ceux qui aiment varier les plaisirs.\n\n<\/p>\n<br>\n<p>\nLes offres promotionnelles et la fidélisation complètent naturellement l’expérience des visiteurs réguliers. L’idée reste simple : plus la fréquentation est régulière, plus les avantages deviennent intéressants et personnalisés. On parle souvent d’invitations, de bonus d’anniversaire ou d’offres liées aux jeux et à la détente. La fidélité ajoute une couche de service, rendant les visites plus valorisantes. Même en tant que nouvel arrivant, les bénéfices de base se comprennent rapidement. Le Casino de Hyères convient donc autant à une découverte qu’à un rituel de sortie.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nService et paiements au Casino de Hyères — équipe, devises et retrait des gains\n<\/h3>\n\n<p>\nAu Casino de Hyères, le service est généralement attentif sans être intrusif. Le personnel aide à l’accueil, à l’orientation, aux règles de base et aux questions pratiques sur les limites et les mises. L’objectif est de garder un rythme calme dans les espaces de jeu, avec une communication simple et efficace. Pour les débutants, il est souvent plus facile de commencer par les machines ou les dispositifs électroniques, et l’équipe indique les gestes essentiels. En soirée, malgré l’affluence, l’organisation vise à préserver le confort. Avant une session, on peut demander une explication rapide des règles d’un jeu.\n\n<\/p>\n<br>\n\n\n<p>\nLa langue principale reste le français, et un niveau d’anglais “pratique” est fréquent selon les équipes et les saisons. En période touristique, la communication devient souvent plus fluide grâce à l’habitude d’accueillir des visiteurs variés. Pour un échange plus détaillé, l’accueil ou un responsable de salle peut prendre le relais. Le ton est généralement courtois et posé, conforme à l’esprit d’un casino de ville. En cas de question sensible, notamment sur l’identification ou un paiement, on peut solliciter un référent. Cette disponibilité rassure, surtout lorsqu’il s’agit de gains et de justificatifs.\n\n<\/p>\n<br>\n<p>\nLa devise de référence est l’euro, qui structure les mises et les paiements. À l’intérieur, les cartes bancaires sont généralement utilisées pour les services (bar, restauration), tandis que les pratiques de jeu suivent les usages des casinos terrestres. Concrètement, l’argent liquide est souvent privilégié pour jouer, avec des systèmes de tickets ou vouchers selon les machines. Ces supports sont ensuite convertis en caisse, ce qui facilite les déplacements entre zones. Le système évite d’avoir à manipuler constamment des pièces ou de petites coupures. Les modalités exactes peuvent varier selon l’équipement, d’où l’intérêt de demander sur place.\n\n<\/p>\n<br>\n<p>\nConcernant les moyens de paiement, les cartes (débit\/crédit) sont courantes pour les prestations, et le liquide reste un réflexe pour le jeu. Un distributeur à proximité ou dans le secteur permet souvent de retirer, avec des frais dépendant de la banque et du type de carte. La caisse peut aussi aider à obtenir des coupures adaptées, dans le cadre des règles internes. Pour le change de devises, il est généralement plus avantageux de s’organiser en ville, afin d’éviter commissions et contraintes. Les visiteurs gagnent à disposer à la fois d’une carte et d’un peu de liquide. Cette combinaison rend la soirée plus simple.\n\n<\/p>\n<br>\n<p>\nLe retrait des gains passe en général par la caisse et par un contrôle d’identité lorsque cela s’impose. Les petits montants se règlent habituellement rapidement, tandis que les gains importants peuvent nécessiter une identification renforcée et une traçabilité. Selon la situation et les seuils, des options peuvent exister entre paiement en espèces dans une limite ou traitement bancaire. Les justificatifs varient selon le jeu : ticket machine, relevé système, validation table. Il est recommandé de conserver tickets et reçus jusqu’au règlement final. Cela garantit une procédure claire et sécurisée.\n\n<\/p>\n<br>\n<p>\nLa fiscalité des gains dépend du statut du joueur et des règles applicables. Dans un casino terrestre, une partie des obligations est intégrée au fonctionnement, mais les responsabilités individuelles peuvent différer selon les profils. En cas de gros gain, il est pertinent de demander quels justificatifs sont remis et quelles informations sont enregistrées. Ensuite, si nécessaire, un conseil professionnel peut aider à clarifier la situation personnelle. Le joueur doit surtout retenir qu’une identification peut être demandée, et que des documents peuvent attester du paiement. Plus le gain est élevé, plus la procédure devient formelle, ce qui est normal.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRègles de visite du Casino de Hyères — accès, tenue et itinéraire\n<\/h3>\n\n<p>\nLa visite du Casino de Hyères commence par un contrôle d’accès qui préserve une ambiance calme. L’entrée dans les espaces de jeu requiert la majorité et une pièce d’identité valide. Une tenue soignée est attendue, car l’établissement privilégie un style correct plutôt qu’un look trop sportif. À l’intérieur, des règles de conduite garantissent le confort : respect des autres joueurs, absence de conflits et suivi des consignes du personnel. En état d’ivresse marquée, l’accès peut être refusé afin de maintenir une atmosphère sereine. Les prises de photo et vidéo sont souvent limitées, notamment près des tables et de la caisse, pour protéger la confidentialité. Dans les zones de jeu, il faut garder ses distances avec le matériel et ne jamais toucher les mises ou jetons d’autrui. Le tabac est autorisé uniquement dans les espaces dédiés lorsqu’ils existent, et les zones intérieures sont généralement non-fumeurs. Les effets personnels doivent rester sous surveillance, surtout aux heures de forte affluence. En groupe, il est utile de fixer un point de rendez-vous pour éviter toute agitation. L’accès est simple à pied depuis le centre, et pratique en voiture avec les parkings proches.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTenue (dress code)\n\n\n<\/h4>\n\n <ul>\n            <li>• \nStyle quotidien soigné, chaussures correctes, vêtements propres.\n\n<\/li>\n            <li>• \nÀ éviter : tenue de plage, survêtements, messages provocants.\n\n<\/li>\n            <li>• \nLe soir, une tenue plus habillée est recommandée pour les tables.\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’entrée\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAccès réservé aux personnes majeures.\n\n<\/li>\n            <li>• \nPièce d’identité valide obligatoire (passeport\/ID\/permis).\n\n<\/li>\n            <li>• \nContrôle de sécurité possible (sacs) selon les procédures internes.\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nInterdictions et limites\n\n\n<\/h4>\n\n <ul>\n            <li>• \nInterdiction de perturber les autres joueurs ou de contester agressivement.\n\n<\/li>\n            <li>• \nRestrictions photo\/vidéo dans les zones de jeu et près de la caisse.\n\n<\/li>\n            <li>• \nRefus possible en cas d’ivresse importante ou de comportement agressif.\n\n<\/li>\n            <li>• \nTabac uniquement dans les zones autorisées, si prévues.\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nParking et accès\n\n\n<\/h4>\n\n <ul>\n            <li>• \nParkings urbains à proximité, souvent avec options couvertes.\n\n<\/li>\n            <li>• \nTaxi conseillé pour les retours tardifs après la nuit.\n\n<\/li>\n            <li>• \nAccès à pied facile depuis les secteurs centraux.\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccessibilité et confort\n\n\n<\/h4>\n\n <ul>\n            <li>• \nDes aménagements (accès, ascenseurs) sont fréquents dans ce type de complexe.\n\n<\/li>\n            <li>• \nVenir avant le pic du soir facilite l’entrée et le choix des espaces.\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nProgramme de fidélité du Casino de Hyères — niveaux, bonus et privilèges\n<\/h3>\n\n<p>\nLe programme de fidélité du Casino de Hyères vise les visiteurs réguliers qui souhaitent être récompensés pour leur présence et leur jeu. Il repose le plus souvent sur une carte personnelle qui enregistre l’activité et crédite des points selon les mises sur les machines et certains jeux. L’idée est simple : plus vous venez souvent, plus les avantages deviennent intéressants. La carte ouvre l’accès à des offres ciblées, par exemple des crédits de jeu, des invitations et des avantages sur des périodes précises. Pour un nouvel arrivant, l’inscription se fait rapidement et les premiers bénéfices sont accessibles sans complexité. Pour les habitués, la valeur augmente avec le niveau, grâce à des offres plus généreuses et plus fréquentes. Le programme améliore aussi le confort avec, parfois, des accès prioritaires ou une relation plus personnalisée. Des attentions comme l’anniversaire ou les cadeaux saisonniers renforcent l’aspect “expérience”. Les règles restent généralement lisibles : points, progression, statut et durée de validité. Plus l’activité est élevée, plus les offres touchent à la fois le jeu et la détente (bar, restaurant, animations). Ce système rend les visites plus avantageuses et plus plaisantes, sans changer la liberté de jouer à son rythme.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’inscription\n\n\n<\/h4>\n\n <ul>\n            <li>• \n18+ : programme réservé aux majeurs.\n\n<\/li>\n            <li>• \nPièce d’identité : passeport\/ID\/permis requis.\n\n<\/li>\n            <li>• \nFiche : informations de contact pour les offres personnalisées.\n\n<\/li>\n            <li>• \nActivation immédiate : cumul des points dès le jour d’inscription.\n\n<\/li>\n\n        <\/ul><br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nNiveaux et obtention\n<\/h4>\n\n <ul>\n            <li>• \nStart — 0 point : carte de base, accès au cumul et aux offres.\n\n<\/li>\n            <li>• \nSilver — dès 1 000 points : avantages renforcés, premières invitations.\n\n<\/li>\n            <li>• \nGold — dès 5 000 points : cashback plus visible et offres dédiées.\n\n<\/li>\n            <li>• \nPlatinum — dès 15 000 points : privilèges maximum et esprit VIP.\n\n<\/li>\n\t    <li>• \nLes points se cumulent généralement via les machines et certains formats; la vitesse dépend des conditions et de l’activité.\n<\/li>\n        <\/ul><br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonus et privilèges\n<\/h4>\n\n <ul>\n            <li>• \nBonus d’inscription : 10€ Free Play — crédit de démarrage sur machines.\n\n<\/li>\n            <li>• \nCashback en points : 0,5%–2% — retour d’activité en bonus (plus le niveau monte, plus le taux augmente).\n\n<\/li>\n            <li>• \nAnniversaire : 20€–50€ — bonus jeu ou attention côté détente.\n\n<\/li>\n            <li>• \nOffres hebdomadaires : 5€–30€ — propositions personnalisées sur certains jours.\n\n<\/li>\n\t    <li>• \nInvitations événements — accès à des soirées privées, priorité de réservation.\n\n<\/li>\n\t    <li>• \nAvantages bar — boisson\/café offert selon statut ou cumul.\n\n<\/li>\n\t    <li>• \nService VIP — parcours simplifié, relation dédiée pour les statuts élevés.\n\n<\/li>\n        <\/ul><br>\n\n\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Fournisseurs de logiciels"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Divertissement et jeux au  Casino de Hyères ",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonus et offres spéciales du Casino de Hyères — jeux, divertissements et temps forts saisonniers\n<\/h3>\n\n<p>\nEn dehors de la fidélisation, le Casino de Hyères propose souvent des mécaniques promotionnelles qui dynamisent la visite. Ces offres ciblent généralement les machines, les tournois et les soirées à thème, lorsque l’envie de mixer jeu et ambiance est la plus forte. Les promotions peuvent varier selon les jours : “soirée machines”, “nuit roulette” ou formats combinés avec bar et animation. Pour les joueurs, l’intérêt est que les bonus arrivent fréquemment sous forme de Free Play ou crédits, faciles à utiliser. Pour les groupes, les tirages et jeux-concours créent une dimension collective où la chance ne dépend pas uniquement des grosses mises. Les rendez-vous saisonniers ajoutent un esprit festif, surtout pendant les périodes de vacances et les dates marquantes. Certains mini‑tournois valorisent la régularité et la réussite sur une série plutôt que la mise maximale. On trouve aussi des offres liées à la détente : boissons, menus, billets de show ou “packs soirée”. Les “heures jackpot” mettent l’accent sur la probabilité de toucher une grosse récompense sur des machines ciblées. Pour les nouveaux, les soirées événementielles rendent l’ambiance plus accessible et plus pédagogique. Au final, ces offres transforment la venue en expérience variée : on ne vient pas seulement jouer, on participe à une soirée vivante.\n\n<\/p>\n<br>\n\n<ul>\n            <li>• \nFree Play machines : 5€–25€ — offert certains jours ou sous condition de jeu.\n\n<\/li>\n            <li>• \nHappy Hours machines : +10%–20% crédits bonus — bonus renforcé sur une tranche horaire.\n\n<\/li>\n            <li>• \nTournois machines : cagnotte 2 000€–20 000€ — classement par points, lots par rang.\n\n<\/li>\n            <li>• \nTirages en salle : 500€–5 000€ en lots — participation via coupons\/tickets, souvent en soirée.\n\n<\/li>\n\t    <li>• \nAnimations super‑jackpot : jusqu’à 100 000€+ — focus sur des jackpots progressifs et gros gains potentiels.\n\n<\/li>\n\t    <li>• \nSoirées “tables” : coupons 10€–50€ — avantages sur certaines sessions ou dates.\n\n<\/li>\n\t    <li>• \nÉvénements saisonniers : cadeaux équivalent 10€–100€ — goodies, attentions, crédits ou billets.\n\n<\/li>\n\t    <li>• \nCombo “jeu + bar” : boisson offerte — selon activité de jeu sur un soir précis.\n\n<\/li>\n\t    <li>• \nCombo “jeu + dîner” : menu avantage — prix fixe ou cadeau cuisine pendant l’événement.\n\n<\/li>\n\t    <li>• \nFormat nuit : tirages supplémentaires — davantage de surprises à heures tardives.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nJeux populaires au Casino de Hyères — des machines aux tables classiques\n<\/h3>\n\n<p>\nAu Casino de Hyères, l’expérience de jeu s’articule souvent autour des machines modernes, simples à comprendre dès les premières minutes. Beaucoup de visiteurs choisissent les slots pour la variété des thèmes, le rythme rapide et la facilité d’ajuster les mises. Les jackpots progressifs ajoutent une sensation de “chasse au gros gain” et maintiennent la tension positive. Pour une dynamique plus vivante, les jeux de table apportent des émotions différentes, faites de décisions, de tempo et d’ambiance. La roulette séduit par sa simplicité de mise et son atmosphère, surtout le soir lorsque la salle s’anime. Le blackjack plaît pour son équilibre entre chance et stratégie, avec des parties rapides et intenses. Les formats électroniques (roulette ou blackjack sur terminaux) conviennent à ceux qui veulent jouer à leur cadence, sans attendre une place. Les amateurs de poker apprécient les formats et sessions spécifiques lorsqu’ils sont programmés. Les débutants se sentent souvent à l’aise en démarrant sur des machines à mises basses, le temps de prendre ses repères. Les joueurs expérimentés alternent fréquemment : machines pour le rythme, tables pour l’ambiance et le “jeu de décision”. Ce mélange rend la visite flexible et personnalisable. Le Casino de Hyères apparaît ainsi comme un lieu polyvalent, accessible aux nouveaux et suffisamment riche pour les adeptes des classiques.\n\n<\/p>\n<br>\n\n<ul>\n            <li>• \nMachines à sous — grande diversité, rythme rapide, bonus fréquents.\n\n<\/li>\n            <li>• \nJackpots progressifs — potentiel de gros gain selon conditions de la machine.\n\n<\/li>\n            <li>• \nRoulette — classique, mises simples, ambiance forte en soirée.\n\n<\/li>\n            <li>• \nBlackjack — décisions du joueur, parties rapides, intensité.\n\n<\/li>\n\t    <li>• \nRoulette électronique — jeu au tempo personnel, interface pratique.\n\n<\/li>\n\t    <li>• \nBlackjack électronique — idéal pour apprendre, mécanique claire et guidée.\n\n<\/li>\n\t    <li>• \nPoker (selon programmation) — esprit compétitif et convivialité autour de la table.\n\n<\/li>\n\t    <li>• \nJeux rapides\/terminaux hybrides — sessions courtes, alternance de modes.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMises au Casino de Hyères — minima et maxima par jeu\n<\/h3>\n\n<p> \nLes plages de mises au Casino de Hyères permettent généralement de jouer selon plusieurs profils, du test prudent à une approche plus engagée. Sur les machines, on trouve souvent des entrées très basses, idéales pour débuter ou prolonger une session. Les tables en soirée apportent un format classique où les minima sont souvent plus élevés, avec une intensité différente. Les limites exactes varient selon la table, la soirée et l’équipement ; le tableau sert donc de repère pratique.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#2E444B; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Jeu<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise minimale<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise maximale<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Machines à sous<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,01€ <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">100€ <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots jackpots progressifs<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,10€<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">50€<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,20€ <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">100€<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette (table)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2€ <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> 500€<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (table)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5€<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">500€<\/td>\n                <\/tr>\n          <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1€<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">50€<\/td>\n                <\/tr>\n          <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker (formats\/sessions)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">20€ buy-in<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">200€ buy-in<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nAnimations au Casino de Hyères — shows, soirées à thème et rythme de nuit\n<\/h3>\n\n<p>\nLe Casino de Hyères n’est pas seulement un lieu de jeu : c’est aussi une adresse de sortie où les animations renforcent l’ambiance. Les soirées s’appuient souvent sur des thèmes, de la musique et des temps forts saisonniers qui donnent une vraie raison de venir, même en jouant modérément. Les rendez-vous réguliers rendent l’expérience plus lisible : certains jours sont plus festifs, plus musicaux, plus vivants. La dimension nocturne est particulièrement appréciée, car l’atmosphère se rapproche alors d’un esprit club, plus énergique. Dans ces créneaux, on alterne plus volontiers entre jeux, bar, échanges et “ambiance show”.\n\n<\/p>\n<br>\n\n\n<p>\nLes événements spéciaux occupent une place à part : soirées de fête, programmes scéniques, artistes invités et thèmes liés au calendrier. Cela peut prendre la forme d’un dîner animé, d’une soirée-concert ou d’un bloc divertissement intégré au rythme du casino. Ces formats séduisent les couples et les groupes à la recherche d’un scénario “clé en main”. Souvent, l’intensité côté jeu augmente aussi : tournois, tirages, cadeaux supplémentaires, afin de rendre la soirée plus mémorable. Le casino devient alors une scène de divertissement où le jeu n’est qu’un des ingrédients.\n\n<\/p>\n<br>\n<p>\nPour les profils plus sociaux, les soirées interactives apportent une touche participative : quiz, mini-défis, activités légères. Elles facilitent l’intégration des nouveaux visiteurs, qui peuvent s’amuser sans pression. Les divertissements de nuit combinent musique, bar et jeu, pour un mix très attractif. Même sans “grand show” le jour J, des éléments réguliers comme une ambiance musicale, un animateur ou un décor thématique entretiennent l’esprit festif. Le Casino de Hyères plaît ainsi à ceux qui veulent à la fois jouer et vivre une vraie soirée.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTous les divertissements\n<\/h4>\n\n <ul>\n            <li>• \nSoirées à thème — scénarios saisonniers ou musicaux, ambiance renforcée.\n\n<\/li>\n            <li>• \nSets musicaux \/ DJ — rythme du soir et de la nuit, esprit club.\n\n<\/li>\n            <li>• \nShows — performances et moments scéniques à dates choisies.\n\n<\/li>\n            <li>• \nTemps forts saisonniers — fêtes, périodes estivales, soirées événementielles.\n\n<\/li>\n\t    <li>• \nTournois et tirages — animations jeu intégrées à la soirée.\n\n<\/li>\n\t    <li>• \nDîner-événement — “manger puis prolonger” avec programme.\n\n<\/li>\n\t    <li>• \nInteractivité légère — quiz, concours, animations de groupe.\n\n<\/li>\n\t    <li>• \nFormat nuit — ambiance plus dynamique aux heures tardives.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, restaurant et détente au Casino de Hyères — une soirée confortable\n<\/h3>\n\n<p>\nLa détente au Casino de Hyères suit souvent un scénario simple : jouer, faire une pause au bar, dîner, puis revenir en salle plus sereinement. Le bar est central, car il permet de souffler, d’échanger et de ne pas rester focalisé uniquement sur le jeu. On ressent alors l’esprit “sortie riviera” : la soirée se déroule sans précipitation, avec un rythme modulable. Pour un couple, c’est un format de rendez-vous facile ; pour un groupe, un moyen de maintenir la convivialité entre deux sessions. L’offre et l’ambiance du bar peuvent aussi se caler sur les animations du soir.\n\n<\/p>\n<br>\n\n\n<p>\nLe restaurant s’adapte généralement à plusieurs envies : encas rapide, dîner avant les tables, ou vraie pause gourmande. Manger sur place évite les déplacements et garde une continuité de soirée. Pendant les événements, bar et restaurant deviennent souvent une extension du programme, renforçant l’esprit festif. Un bon dîner réduit la fatigue et aide à garder un rapport plus posé au jeu. La visite se transforme ainsi en soirée complète, plutôt qu’en simple enchaînement de parties.\n\n<\/p>\n<br>\n<p>\nPour une fin tardive, la proximité d’un hébergement en mode casino-hôtel apporte un confort évident. Cela enlève la contrainte du retour nocturne et peut transformer la sortie en mini‑séjour. Ce choix plaît aux visiteurs du week-end ou à ceux qui veulent prolonger sans stress. Les voyageurs d’affaires y trouvent aussi un intérêt en combinant rendez-vous et détente. Le mix “jeu + dîner + nuit + hébergement” ressemble alors à un pack loisir complet.\n\n<\/p>\n<br>\n<p>\nEnfin, l’ambiance compte autant que les services : musique, éclairages, rythme du soir et liberté de choisir son tempo. Même une visite courte devient plus agréable lorsqu’on peut s’asseoir, discuter et se recentrer. Le bar et le restaurant ne sont donc pas seulement des options, mais une partie de la valeur globale du Casino de Hyères. En planifiant bien, on passe plusieurs heures sans fatigue, avec la sensation d’une vraie belle sortie. C’est souvent ce format qui marque le plus.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTous les lieux de détente\n<\/h4>\n\n <ul>\n            <li>• \nBar — cocktails, apéritifs, pause entre deux sessions de jeu.\n\n<\/li>\n            <li>• \nRestaurant \/ brasserie — déjeuner\/dîner, coupure confortable sans quitter le site.\n\n<\/li>\n            <li>• \nEspaces détente — attendre des amis, se poser et changer de rythme.\n\n<\/li>\n            <li>• \nOption casino-hôtel (si nuit sur place) — conclusion logique d’une soirée tardive.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "Y a-t-il une limite de temps sur place ?",
+                    "answer": "En général, vous pouvez rester pendant les heures d’ouverture, tant que vous respectez les règles de sécurité et de conduite.\n\n\n"
+                },
+                {
+                    "title": "Comment se comporter aux tables quand on débute ?",
+                    "answer": "Approchez calmement, dites que vous êtes débutant et demandez une explication courte. Observer quelques tours avant de miser aide beaucoup.\n\n\n"
+                },
+                {
+                    "title": "Que faire si je perds un ticket machine ?",
+                    "answer": "Contactez immédiatement le personnel ou la caisse. Une aide est parfois possible selon le système, mais cela dépend du type de machine et des preuves disponibles.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1395",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino de Hyères "
+        }
+    },
+    "langs": [
+        {
+            "code": "fr-FR",
+            "name": "Французский",
+            "isDefault": true
+        }
+    ]
+}

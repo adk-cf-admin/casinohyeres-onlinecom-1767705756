@@ -1,0 +1,19 @@
+{
+  "name": "Casino de Hyères ",
+  "short_name": "Casino de Hyères ",
+  "theme_color": "",
+  "background_color": "#000001",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1767703568-favicon-15.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
